@@ -25,7 +25,7 @@ Se XP for maior ou igual a 10.001 = Radiante
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}***/
 
-let nomeDoHeroi = 'Luminaris'; 
+/* let nomeDoHeroi = 'Luminaris'; 
 let experiencia = 9504;
 
 switch (true){
@@ -64,5 +64,6 @@ switch (true){
   default:
     console.log("Não foi possivel localizar o nivel do herói " + nomeDoHeroi);
     break;
-}
+} */
+
 
